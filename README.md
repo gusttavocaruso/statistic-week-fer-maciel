@@ -8,7 +8,7 @@
 
 <img src="./img/a minute on the internet.png" width="350px">
 
-#### **that's why**
+**that's why**
 
 </div>
 
@@ -41,7 +41,7 @@ _(Base de análises)_
 
 ---
 
-### **Distribuições** <img src="./img/Distribuições.png" width="250px" align="right">
+### **Distribuições** <img src="./img/Distribuições.png" width="300px" align="right">
 
 - discreta / contínua;
 - uniforme;
@@ -77,7 +77,7 @@ _(para uma ou duas amostras)_
   - Ex: nota de um grupo de pessoas antes/depois de um treinamento;
 ---
 
-### **ANOVA** <img src="./img/anova.png" width="350px" align="right">
+### **ANOVA** <img src="./img/anova.png" width="400px" align="right">
 _(para mais de duas amostras)_ 
 
 
