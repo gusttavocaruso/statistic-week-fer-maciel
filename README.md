@@ -1,6 +1,6 @@
 <div align="center">
 
-## **Semana da Estatística aplicada**
+# **Semana da Estatística aplicada**
 
 ### _Professora Fernanda Maciel_
 
